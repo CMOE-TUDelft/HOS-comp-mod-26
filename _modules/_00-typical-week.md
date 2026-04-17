@@ -20,7 +20,7 @@ Workshop
 <!-- Holidays
 : None -->
 
-The main goal for the week are provided in boxes like this: <br>
+The main goals for the week are provided in boxes like this: <br>
 <i>1. along with a sub-goal</i> <br>
 <i>... and more sub-goals</i><br>
 <i>n. until the n-th sub-goal</i><br>

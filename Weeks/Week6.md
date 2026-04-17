@@ -1,10 +1,10 @@
 ---
-title: Week 6
-layout: default
-parent: Calendar
-nav_order: 7
+# title: Week 6
+# layout: default
+# parent: Calendar
+# nav_order: 7
 ---
-
+<!-- 
 # Week 6
 
 At the end of this week you will be able to: <br>
@@ -21,4 +21,4 @@ Week 6. Geometrically nonlinear structures [[pdf 1]](https://surfdrive.surf.nl/f
 [Workshop 1 (Static String)](https://teachbooks.tudelft.nl/computational-modelling/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_1_Static_String.html)<br>
 [Workshop 2 (Expanded Static String)](https://teachbooks.tudelft.nl/computational-modelling/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_2_Offset_Calc.html)<br>
 [Workshop 6 (Dynamic String)](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_Dynamic_String.html)<br>
-{: .exercises }
+{: .exercises } -->

@@ -1,10 +1,10 @@
 ---
-title: Week 4
-layout: default
-parent: Calendar
-nav_order: 5
+# title: Week 4
+# layout: default
+# parent: Calendar
+# nav_order: 5
 ---
-
+<!-- 
 # Week 4
 
 At the end of this week you will be able to: <br>
@@ -21,4 +21,4 @@ Week 4. Computational methods for time-dependent Partial Differential Equations 
 {: .content }
 
 [Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/continuum_linear/Exercises/Workshop_FEM_Linear_Elasticity.html)<br>
-{: .exercises }
+{: .exercises } -->

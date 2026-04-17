@@ -15,7 +15,7 @@ A number of instructors are involved in this unit.
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistant
+## Teaching Assistants
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

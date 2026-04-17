@@ -1,11 +1,11 @@
 ---
-title: Week 3
-layout: default
-parent: Calendar
-nav_order: 4
+# title: Week 3
+# layout: default
+# parent: Calendar
+# nav_order: 4
 ---
 
-# Week 3
+<!-- # Week 3
 
 At the end of this week you will be able to: <br>
 Define and analyze numerical methods to solve systems governed by Partial Differential Equations. This entails:<br>
@@ -25,4 +25,4 @@ Week 3. Computational methods for time-dependent Partial Differential Equations 
 [Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_rod.html)<br>
 [Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_beam.html)<br>
 [Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_space_frames.html)<br>
-{: .exercises }
+{: .exercises } -->

@@ -1,20 +1,22 @@
 ---
-title: "Week 1: Introduction Unit CIEM42X0-CM"
+title: "Week 1: Introduction to Unit CIEM42X0-CM"
 ---
 
 <!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
 <!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
 
 Lecture
-: Introduction to Computational Dynamics of Offshore Structure
-  <br><em>Wednesday, 08:45-12:45, CEG - 1.98</em>
+: Introduction to Computational Dynamics of Offshore Structures
+  <br><em>Wednesday, 08:45-12:45, CEG - Flux Hall D (39.00.00.200)</em>
+  <br><em>April 22nd, 2026</em>
 
 Homework
 : Study content of week 1
 
 Workshop
 : ODE Solver
-  <br><em>Wednesday, 08:45-12:45, CEG - 1.98</em>
+  <br><em>Wednesday, 08:45-12:45, CEG - Flux Hall D (39.00.00.200)</em>
+  <br><em>April 22nd, 2026</em>
 
 <!-- Holidays
 : None -->

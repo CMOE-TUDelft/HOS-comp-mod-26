@@ -22,7 +22,7 @@ Workshop
 At the end of this week you will be able to: <br>
 Define numerical methods to perform a modal analysis of systems governed by Partial Differential Equations. This entails:<br>
 <i>1. Characterize the modal properties of a system of PDEs</i><br>
-<i>2. Define numerical methods that return characteristics eigenfrequencies and eigenmodes of a system of PDEs</i> <br>
+<i>2. Define numerical methods that return characteristic eigenfrequencies and eigenmodes of a system of PDEs</i> <br>
 <i>3. Analyze and justify the results</i><br>
 {: .learningobjectives }
 

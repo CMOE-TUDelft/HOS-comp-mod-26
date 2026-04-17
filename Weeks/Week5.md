@@ -1,16 +1,16 @@
 ---
-title: Week 5
-layout: default
-parent: Calendar
-nav_order: 6
+# title: Week 5
+# layout: default
+# parent: Calendar
+# nav_order: 6
 ---
-
+<!-- 
 # Week 5
 
 At the end of this week you will be able to: <br>
 Define numerical methods to perform a modal analysis of systems governed by Partial Differential Equations. This entails:<br>
 <i>1. Characterize the modal properties of a system of PDEs</i><br>
-<i>2. Define numerical methods that return characteristics eigenfrequencies and eigenmodes of a system of PDEs</i> <br>
+<i>2. Define numerical methods that return characteristic eigenfrequencies and eigenmodes of a system of PDEs</i> <br>
 <i>3. Analyze and justify the results</i><br>
 {: .learningobjectives }
 
@@ -20,4 +20,4 @@ Week 5. Modal analysis for time-dependent Partial Differential Equations [[pdf]]
 
 [Workshop 4](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_modal_sup_pos_jacket.html)<br>
 [Workshop 5](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_Full_FEM_sup_pos_jacket.html)<br>
-{: .exercises }
+{: .exercises } -->

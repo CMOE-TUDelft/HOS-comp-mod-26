@@ -1,16 +1,16 @@
 ---
-title: Week 2
-layout: default
-parent: Calendar
-nav_order: 3
+# title: Week 2
+# layout: default
+# parent: Calendar
+# nav_order: 3
 ---
-
+<!-- 
 # Week 2
 
 At the end of this week you will be able to : <br>
-Defining and solving an Equation of Motion using the Lagrangian approach. This entails:<br>
+Define and solve an equation of motion using the Lagrangian approach. This entails:<br>
 <i>1. Recognize structural elements and understand their contribution in the Equation of Motion</i><br>
-<i>2. Deriving the Equation of Motion using Lagrangian approach</i> <br>
+<i>2. Derive the equation of motion using the Lagrangian approach</i> <br>
 <i>3. Solve Equation of Motion using numerical methods</i><br>
 {: .learningobjectives }
 
@@ -21,4 +21,4 @@ Week 2. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.
 [Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_Pendulum.html)<br>
 [Workshop 4](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_2DOF.html)<br>
 [Workshop 5](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_4DOF.html)<br>
-{: .exercises }
+{: .exercises } -->

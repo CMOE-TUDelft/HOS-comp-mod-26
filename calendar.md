@@ -7,7 +7,7 @@ has_children: true
 ---
 # Calendar
 
-Use the links below or the sub-pages on the left side of this website to find an overview of the in-class sessions, homework assignments and reading material.
+Use the links below or the sub-pages on the left side of this website to find an overview of the in-class sessions, homework assignments, and reading material.
 
 Here is another useful link to the [Unit Information page](info.md).
 

@@ -1,7 +1,7 @@
 title: CIEM42X0-CM
 tagline: CIEM42X0-CM Computational Modelling
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
-baseurl: '/HOS-comp-mod-25'
+baseurl: '/HOS-comp-mod-26'
 url: https://tudelft-citg.github.io
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -25,7 +25,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.5.2
+theme: just-the-docs
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -41,7 +41,7 @@ aux_links:
   Online Textbook:
     - 'https://teachbooks.tudelft.nl/computational-modelling/intro.html'
 aux_links_new_tab: true
-footer_content: 'Oriol Colomés &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Oriol Colomés &copy; 2026 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
