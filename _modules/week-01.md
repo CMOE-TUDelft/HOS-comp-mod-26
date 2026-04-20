@@ -40,7 +40,7 @@ Week 1. Computational methods for ODEs [[pdf]](https://surfdrive.surf.nl/files/i
 [Workshop: ODE Solver](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_ODE_Solvers.html)<br>
 {: .exercises }
 
-What do you need from this week in your project?
+What do you need from this week in your project? <br>
 <i>Analysis of numerical methods used for the time integration. This includes:
   <i>- Assessment of time-stepping error and link to time integration scheme.</i>
   <i>- Assessment of variable time step size (if variable time-stepping is used).</i>
