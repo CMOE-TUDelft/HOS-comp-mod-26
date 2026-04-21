@@ -30,14 +30,14 @@ Define and analyse numerical methods to solve Ordinary Differential Equations (O
 {: .learningobjectives }
 
 Week 1. Computational methods for ODEs [[pdf]](https://surfdrive.surf.nl/s/EEZGYgxWNXTHfgN):<br>
-[Introduction to numerical methods for ODEs](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Introduction.html)<br>
-[Taylor series](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Taylor-series.html)<br>
-[ODE solvers](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Solvers.html)<br>
-[Error and stability](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Error_stability.html )<br>
-[Error control](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Error_control.html)<br>
+[Introduction to numerical methods for ODEs](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/ODEs/Introduction.html)<br>
+[Taylor series](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/ODEs/Taylor-series.html)<br>
+[ODE solvers](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/ODEs/Solvers.html)<br>
+[Error and stability](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/ODEs/Error_stability.html )<br>
+[Error control](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/ODEs/Error_control.html)<br>
 {: .content }
 
-[Workshop: ODE Solver](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_ODE_Solvers.html)<br>
+[Workshop: ODE Solver](https://oit.tudelft.nl/Finite-Elements-in-CEG/dynamics/Exercises/ode_solvers_workshops/Workshop_ODE_Solvers.html)<br>
 {: .exercises }
 
 What do you need from this week in your project? <br>
