@@ -7,14 +7,14 @@ title: "Week 2: Computational methods for rigid body dynamics"
 
 Lecture
 : Types of structural elements, Lagrangian mechanics and Linearization
-  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+  <br><em>Wednesday, 08:45-12:45, Flux Hall B</em>
 
 Homework
 : Study content of week 2
 
 Workshop
 : Workshop 2, Workshop 3, Workshop 4 and Workshop 5
-  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+  <br><em>Wednesday, 08:45-12:45, Flux Hall B</em>
 
 <!-- Holidays
 : None -->
