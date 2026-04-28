@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Project templates available!
 week: 2
 date: 2026-04-29
 ---
