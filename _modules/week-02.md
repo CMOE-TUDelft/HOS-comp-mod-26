@@ -13,7 +13,7 @@ Homework
 : Study content of week 2
 
 Workshop
-: Workshop 2, Workshop 3, Workshop 4 and Workshop 5
+: Workshop 3, Workshop 4, Workshop 5 and Workshop 6
   <br><em>Wednesday, 08:45-12:45, Flux Hall B</em>
 
 <!-- Holidays
@@ -26,7 +26,7 @@ Define and solve an equation of motion using the Lagrangian approach. This entai
 <i>3. Solve Equation of Motion using numerical methods</i><br>
 {: .learningobjectives }
 
-Week 2. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek2&files=2_1_Dynamics_of_rigid_bodies.pdf):<br>
+Week 2. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.surf.nl/s/cmxyLpXAKRBm2sJ):<br>
 {: .content }
 
 [Workshop 3](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/Exercises/ode_solvers_workshops/Workshop_Linearizing_EOM.html)<br>
