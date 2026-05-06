@@ -29,12 +29,12 @@ Define and analyze numerical methods to solve systems governed by Partial Differ
 
 Week 3. Computational methods for time-dependent Partial Differential Equations [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek3&files=3_1_Numerical_methods_for_PDEs.pdf):<br>
 <i>1. Introduction to Finite Differences for time-dependent PDEs</i><br>
-<i>2. Introduction to Finite Elements for time-dependent PDEs ([6.4](https://teachbooks.tudelft.nl/computational-modelling/dynamics/semi_discrete.html) and [6.5](https://teachbooks.tudelft.nl/computational-modelling/dynamics/time_steppers.html))</i> <br>
-<i>3. Theory: Beam equation [4.1](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/euler_bernouilli.html)</i> <br>
-<i>4. Theory: Space frames [4.3](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/space_frame.html)</i> <br>
+<i>2. Introduction to Finite Elements for time-dependent PDEs ([7.4](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/semi_discrete.html) and [7.5](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/time_steppers.html))</i> <br>
+<i>3. Theory: Beam equation [5.1](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/structural_linear/euler_bernouilli.html)</i> <br>
+<i>4. Theory: Space frames [5.4](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/structural_linear/space_frame.html)</i> <br>
 {: .content }
 
-[Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_FEM_dyn_rod.html)<br>
-[Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/Exercises/Workshop_FEM_dyn_beam.html)<br>
-[Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/Exercises/Workshop_FEM_dyn_space_frames.html)<br>
+[Workshop 1](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_rod.html)<br>
+[Workshop 2](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_beam.html)<br>
+[Workshop 3](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_space_frames.html)<br>
 {: .exercises }
