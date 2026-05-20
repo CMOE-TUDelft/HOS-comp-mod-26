@@ -26,7 +26,7 @@ Define numerical methods to perform a modal analysis of systems governed by Part
 <i>3. Analyze and justify the results</i><br>
 {: .learningobjectives }
 
-Week 5. Modal analysis for time-dependent Partial Differential Equations [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek5&amp;files=5_1_Modal_analysis.pptx):<br>
+Week 5. Modal analysis for time-dependent Partial Differential Equations [[pdf]](https://surfdrive.surf.nl/s/m4ffqdwMTSK7YzQ):<br>
 <i>1. Modal analysis [7.6](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/modal_analysis.html)</i> <br>
 {: .content }
 
