@@ -6,7 +6,7 @@ title: "Week 8: Exam scope"
 <!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
 
 <!-- Holidays
-: None -->
+: None-->
 
 Week 8. Exam scope [[pdf]](https://surfdrive.surf.nl/files/index.php/s/SuIHwUHUoIaHz0l) :<br>
 {: .content }
