@@ -29,10 +29,10 @@ Define numerical methods to analyse systems governed by nonlinear Partial Differ
 {: .learningobjectives }
 
 Week 6. Geometrically nonlinear structures [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek6&files=6.1_Geometrically_nonlinear_structures.pdf) :<br>
-<i>1. Geometric nonlinearity [5.4](https://teachbooks.tudelft.nl/computational-modelling/solid_nonlinear/geometric_nonlinearity.html)</i> <br>
+<i>1. Geometric nonlinearity [6.4](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/solid_nonlinear/geometric_nonlinearity.html)</i> <br>
 {: .content }
 
-[Workshop 1 (Static String)](https://teachbooks.tudelft.nl/computational-modelling/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_1_Static_String.html)<br>
-[Workshop 2 (Expanded Static String)](https://teachbooks.tudelft.nl/computational-modelling/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_2_Offset_Calc.html)<br>
-[Workshop 6 (Dynamic String)](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_Dynamic_String.html)<br>
+[Workshop 1 (Static String)](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_1_Static_String.html)<br>
+[Workshop 2 (Expanded Static String)](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/solid_nonlinear/Exercises/geometric_nonlinear_exercises/Workshop_2_Offset_Calc.html)<br>
+[Workshop 6 (Dynamic String)](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/dynamics/Exercises/str_elem_dyn_workshops/Workshop_Dynamic_String.html)<br>
 {: .exercises }
