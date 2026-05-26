@@ -7,16 +7,14 @@ title: "Week 6: Geometrically Nonlinear Structures"
 
 Lecture
 : Geometrically Nonlinear Structures
-  <br><em>Monday, 10:45-12:45, Echo Hall B</em>
-  <br><em>Monday, 13:45-15:45, CEG - 1.97</em>
+  <br><em>Wednesday, 8:45-12:45, Flux Hall B</em>
 
 Homework
 : Study content of week 6
 
 Workshop
 : Workshop: Workshop 1 (Static String), Workshop 2 (Expanded Static String), Workshop 6 (Dynamic String)
-  <br><em>Monday, 10:45-12:45, Echo Hall B</em>
-  <br><em>Monday, 13:45-15:45, CEG - 1.97</em>
+  <br><em>Wednesday, 8:45-12:45, Flux Hall B</em>
 
 <!-- Holidays
 : None -->
