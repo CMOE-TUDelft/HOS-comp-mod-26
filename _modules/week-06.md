@@ -26,7 +26,7 @@ Define numerical methods to analyse systems governed by nonlinear Partial Differ
 <i>3. Analyse and justify the results</i><br>
 {: .learningobjectives }
 
-Week 6. Geometrically nonlinear structures [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek6&files=6.1_Geometrically_nonlinear_structures.pdf) :<br>
+Week 6. Geometrically nonlinear structures [[pdf]](https://surfdrive.surf.nl/s/n4fwsabBJHoRf8Y) :<br>
 <i>1. Geometric nonlinearity [6.4](https://oit.tudelft.nl/Finite-Elements-in-CEG/main/solid_nonlinear/geometric_nonlinearity.html)</i> <br>
 {: .content }
 
