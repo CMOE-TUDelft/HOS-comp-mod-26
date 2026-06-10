@@ -8,5 +8,5 @@ title: "Week 8: Exam scope"
 <!-- Holidays
 : None-->
 
-Week 8. Exam scope [[pdf]](https://surfdrive.surf.nl/files/index.php/s/SuIHwUHUoIaHz0l) :<br>
+Week 8. Exam scope [[pdf]](https://surfdrive.surf.nl/s/ATTybeqMAdAfFSD) :<br>
 {: .content }
